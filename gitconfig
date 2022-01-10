@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = leblond_kevin@hotmail.fr
+	name = Kevin Leblond
